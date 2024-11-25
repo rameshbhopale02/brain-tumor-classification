@@ -105,8 +105,8 @@ The confusion matrix demonstrates the model's effectiveness:
 ![Confusion Matrix](results/confusion_matrix.jpg)
 
 
-### System Architechture
-The confusion matrix demonstrates the model's effectiveness:
+### Cnn Model Architechture
+
 ![Confusion Matrix](results/system_architechture.png)
 
 
