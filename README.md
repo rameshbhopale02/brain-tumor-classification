@@ -104,7 +104,11 @@ The CNN model is designed with layers to extract and classify features from MRI 
 The confusion matrix demonstrates the model's effectiveness:
 ![Confusion Matrix](results/confusion_matrix.png)
 
----
+
+### System Architechture
+The confusion matrix demonstrates the model's effectiveness:
+![Confusion Matrix](results/system_architechture.png)
+
 
 ## Future Scope
 
