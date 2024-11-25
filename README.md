@@ -48,9 +48,9 @@ The dataset used in this project comprises MRI images of brain scans sourced fro
 
 ### Visualization of Preprocessing:
 - **Blurred Images**:
-  ![Blurred Images](results/blurred_images.png)
+  ![Blurred Images](results/blurred_images.jpg)
 - **Histogram Equalized Images**:
-  ![Histogram Images](results/histogram_images.png)
+  ![Histogram Images](results/histogram_images.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ The CNN model is designed with layers to extract and classify features from MRI 
    - A dense layer with two units and softmax activation for binary classification.
 
 **Model Summary**:
-![Model Summary](results/model_summary.png)
+![Model Summary](results/model_summary.jpg)
 
 ---
 
@@ -84,9 +84,9 @@ The CNN model is designed with layers to extract and classify features from MRI 
 
 ### Training Process Visualization:
 - **Training vs Validation Accuracy**:
-  ![Accuracy Plot](results/training_validation_accuracy.png)
+  ![Accuracy Plot](results/training_validation_accuracy.jpg)
 - **Training vs Validation Loss**:
-  ![Loss Plot](results/training_validation_loss.png)
+  ![Loss Plot](results/training_validation_loss.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ The CNN model is designed with layers to extract and classify features from MRI 
 
 ### Confusion Matrix:
 The confusion matrix demonstrates the model's effectiveness:
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.jpg)
 
 
 ### System Architechture
