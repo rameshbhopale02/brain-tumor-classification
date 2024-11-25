@@ -33,7 +33,7 @@ The dataset used in this project comprises MRI images of brain scans sourced fro
 | Testing Set Size       | 128                  |
 
 **Sample Images:**
-![Sample Images](results/sample_images.png)
+![Sample Images](results/sample_images.jpg)
 
 ---
 
