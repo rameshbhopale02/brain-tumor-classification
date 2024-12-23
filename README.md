@@ -88,8 +88,6 @@ The CNN model is designed with layers to extract and classify features from MRI 
 - **Training vs Validation Loss**:
   ![Loss Plot](results/training_validation_loss.jpg)
 
----
-
 ## Results
 
 ### Performance Metrics:
