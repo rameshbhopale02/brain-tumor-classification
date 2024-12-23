@@ -23,16 +23,20 @@ Brain tumors represent a significant medical challenge, with timely and accurate
 The dataset used in this project comprises MRI images of brain scans sourced from **Kaggle**. 
 
 ### Dataset Overview
-| **Description**       | **Details**           |
-|------------------------|-----------------------|
-| Dataset Title          | Brain Tumor MRI Images |
-| Classes                | 'No Tumor', 'Pituitary Tumor' |
-| Image Format           | JPG                  |
-| Total Images           | 1400                 |
-| Training Set Size      | 1224                 |
-| Testing Set Size       | 128                  |
+                  
+                  | **Description**       | **Details**                    |
+                  |------------------------|-------------------------------|
+                  | Dataset Title          | Brain Tumor MRI Images        |
+                  | Classes                | 'No Tumor', 'Pituitary Tumor' |
+                  | Image Format           | JPG                           |
+                  | Total Images           | 1400                          |
+                  | Training Set Size      | 1224                          |
+                  | Testing Set Size       | 128                           |
 
-**Sample Images:**
+---
+
+***Sample Images***
+---
 ![Sample Images](results/sample_images.jpg)
 
 ---
@@ -66,6 +70,7 @@ The CNN model is designed with layers to extract and classify features from MRI 
    - A dense layer with two units and softmax activation for binary classification.
 
 **Model Summary**:
+---
 ![Model Summary](results/model_summary.jpg)
 
 ---
@@ -84,9 +89,14 @@ The CNN model is designed with layers to extract and classify features from MRI 
 
 ### Training Process Visualization:
 - **Training vs Validation Accuracy**:
+---
   ![Accuracy Plot](results/training_validation_accuracy.jpg)
+  
+---
 - **Training vs Validation Loss**:
+---
   ![Loss Plot](results/training_validation_loss.jpg)
+---
 
 ## Results
 
